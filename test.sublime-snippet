@@ -1,0 +1,8 @@
+<snippet>
+    <tabTrigger></tabTrigger>
+    <scope></scope>
+    <description>Pyxze Test</description>
+	<content><![CDATA[
+test test test
+]]></content>
+</snippet>

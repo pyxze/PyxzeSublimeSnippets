@@ -1,0 +1,19 @@
+{
+    "schema_version": "0.1",
+    "packages":
+    [
+        {
+            "name": "PyxzeSublimeSnippets",
+            "author": "Jason Romero (@pyxze)",
+            "details": "https://github.com/pyxze/PyxzeSublimeSnippets",
+            "labels": [ "" ],
+            "readme": "https://raw.github.com/pyxze/PyxzeSublimeSnippets/master/README.md",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "details": ""
+                }
+            ]
+        }
+    ]
+}
